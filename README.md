@@ -18,7 +18,7 @@ Country Icons created with [FlatIcons](https://www.flaticon.com/)
 
 ## Notes
 1. Had trouble with sourcing official tourism websites
-2. These sites of most countries have limited SEO
+2. The sites of most countries have limited SEO
 3. Didn't have enough time to complete the project to feature all 54 african countries
 4. So we only managed to have 17 countries 
 
