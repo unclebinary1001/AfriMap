@@ -1,6 +1,6 @@
 # AfriMap*
 
-**Afrimap** is a web app that features a map with icons of the different countries on the African continent
+**Afrimap** is a web app that features a map with icons of the different countries on the African continent and links you to the best each country has to offer
 
 Submitted by: **Mahlangu Nzunda and Simbarashe Ndlovu**
 
@@ -17,11 +17,10 @@ The web features the following functionality:
 Country Icons created with [FlatIcons](https://www.flaticon.com/)
 
 ## Notes
-Had trouble with sourcing official tourism websites
-These sites of most countries have limited SEO
-Didn't have enough time to complete the project to feature all 54 african countries
-We only managed to have 17 countries
-
+1. Had trouble with sourcing official tourism websites
+2. These sites of most countries have limited SEO
+3. Didn't have enough time to complete the project to feature all 54 african countries
+4. So we only managed to have 17 countries 
 
 ## License
 
